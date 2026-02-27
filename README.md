@@ -29,10 +29,13 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 
 ## 📌 Featured Work
 
-### 📊 Data Analytics & Dashboarding
-- Cleaned and structured large datasets using Python
-- Built Power BI dashboards for performance tracking
-- Automated reporting workflows using SQL
+ ### [Deep Learning Risk Stratification System](https://github.com/sushmithakishore/YOUR-REPO-NAME)
+- Built a deep learning classification framework using biomarker and connectome data  
+- Engineered high-dimensional biological features for predictive modeling  
+- Implemented preprocessing, model tuning, and ROC-AUC based evaluation  
+- Designed a structured ML pipeline for risk pattern identification  
+
+**Tech Stack:** Python • Pandas • NumPy • TensorFlow / PyTorch • Scikit-learn  
 
 ### 🗂️ SQL-Based Data Workflow System
 - Designed structured storage & retrieval systems
