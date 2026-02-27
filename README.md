@@ -1,12 +1,12 @@
 # Hi, I'm Sushmitha 👋
 
-🚀 Data & AI Systems Enthusiast | B.Tech CSE (AI & Data Analytics)
+💻 AI/ML Developer | 📊 Data Analyst
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I build structured, intelligent data systems that transform raw information into meaningful insights and scalable workflows.
+I build **intelligent, human-centered AI systems** that solve real-world problems in **business, healthcare, smart mobility, and everyday applications.**
 
 - 📊 Designing analytical dashboards & reporting systems  
 - 🛠️ Building Python + SQL data pipelines  
