@@ -13,18 +13,17 @@ I build structured, intelligent data systems that transform raw information into
 - 🎯 Exploring Machine Learning & Predictive Analytics  
 - 💡 Interested in scalable ML systems & real-time data applications  
 
-📍 Chennai, India  
-📫 contact@sushmithakishore.info  
+📍 Chennai, India  | 📫 contact@sushmithakishore.info  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, HTML, CSS  
-**Data Tools:** Pandas, NumPy, Excel  
-**Visualization:** Power BI, Tableau  
-**Database Systems:** SQL Workflows  
-**Focus Areas:** Data Analytics, ML Systems, Decision Intelligence  
+**Languages:** Python, HTML, CSS, JavaScript, SQL
+**Frameworks:** React, Node.js, Next.js, Streamlit, REST APIs
+**ML/DL:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, LangChain
+**Cloud & Tools:** Google Cloud, Azure, Firebase, Git, Power BI
+**Focus Areas:** Business Analysis, Predictive Systems, AI/ML Applications
 
 ---
 
@@ -42,7 +41,10 @@ I build structured, intelligent data systems that transform raw information into
 
 ---
 
-## 📈 Currently Learning
-- Advanced Machine Learning
-- Model Deployment Strategies
-- Scalable Data Architecture
+## 🏆 Achievements & Certifications
+🥇 **Best Paper Award at IEEE iConSCEPT 2025** – HyFURE – Hybrid Fuzzy Reinforcement for Adaptive 
+Class-based Traffic Control 
+🎓 **DeepLearning.AI: AI For Medical Diagnosis**
+🎓 **Stanford University: Machine Learning Specialization**
+🎓 **IBM: Generative AI & LLMs: Professional Certificate**
+🎓 **AWS: AWS Cloud Solutions Architect Professional Certificate**
