@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I build **intelligent, human-centered AI systems** that solve real-world problems in **business, healthcare, smart mobility, and everyday applications.**
+I build **intelligent AI systems grounded in deep learning and reinforcement learning** to solve complex, real-world problems in **buisness analytics, simulation environments, and adaptive decision systems.**
 
-- 📊 Designing analytical dashboards & reporting systems  
-- 🛠️ Building Python + SQL data pipelines  
-- 🎯 Exploring Machine Learning & Predictive Analytics  
-- 💡 Interested in scalable ML systems & real-time data applications  
+- 🧠 Designing end-to-end ML pipelines from preprocessing to evaluation
+- 🎮 Building reinforcement learning and optimization models
+- 👁️ Developing computer vision systems using deep learning
+- 📈 Exploring predictive modeling and intelligent simulation frameworks 
 
 📍 Chennai, India  | 📫 contact@sushmithakishore.info  
 
@@ -19,11 +19,11 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, HTML, CSS, JavaScript
-**Frameworks:** SUMO, TraCI, Vanilla JavaScript (DOM APIs)
-**ML/DL:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Deep Q-Network (DQN), Reinforcement Learning (Q-Learning), Fuzzy Logic Systems
-**Cloud & Tools:** Git, Jupyter Notebook
-**Focus Areas:** Deep Learning, Reinforcement Learning, Computer Vision, Predictive Modeling, Simulation-Based Optimization, AI System Design
+**Languages:** Python, HTML, CSS, JavaScript  
+**Frameworks:** SUMO, TraCI, Vanilla JavaScript (DOM APIs)  
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Deep Q-Network (DQN), Reinforcement Learning (Q-Learning), Fuzzy Logic Systems  
+**Cloud & Tools:** Git, Jupyter Notebook  
+**Focus Areas:** Deep Learning, Reinforcement Learning, Computer Vision, Predictive Modeling, Simulation-Based Optimization, AI System Design  
 
 ---
 
