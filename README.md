@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sushmitha 👋
 
-<!--
-**sushmithakishore/sushmithakishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data & AI Systems Enthusiast | B.Tech CSE (AI & Data Analytics)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I build structured, intelligent data systems that transform raw information into meaningful insights and scalable workflows.
+
+- 📊 Designing analytical dashboards & reporting systems  
+- 🛠️ Building Python + SQL data pipelines  
+- 🎯 Exploring Machine Learning & Predictive Analytics  
+- 💡 Interested in scalable ML systems & real-time data applications  
+
+📍 Chennai, India  
+📫 contact@sushmithakishore.info  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, HTML, CSS  
+**Data Tools:** Pandas, NumPy, Excel  
+**Visualization:** Power BI, Tableau  
+**Database Systems:** SQL Workflows  
+**Focus Areas:** Data Analytics, ML Systems, Decision Intelligence  
+
+---
+
+## 📌 Featured Work
+
+### 📊 Data Analytics & Dashboarding
+- Cleaned and structured large datasets using Python
+- Built Power BI dashboards for performance tracking
+- Automated reporting workflows using SQL
+
+### 🗂️ SQL-Based Data Workflow System
+- Designed structured storage & retrieval systems
+- Reduced manual processing with automation
+- Improved reporting consistency
+
+---
+
+## 📈 Currently Learning
+- Advanced Machine Learning
+- Model Deployment Strategies
+- Scalable Data Architecture
