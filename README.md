@@ -43,10 +43,19 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗂️ SQL-Based Data Workflow System
-- Designed structured storage & retrieval systems
-- Reduced manual processing with automation
-- Improved reporting consistency
+### [🌡️ Non-Contact Facial Health Detection Using Infrared Imaging](https://github.com/sushmithakishore/Non-Contact-Detection-of-Facial-Health-Conditions-Using-Infrared-Face-Images)
+- Developed a computer vision–based system for non-invasive health condition detection  
+- Implemented infrared image preprocessing and facial region extraction using OpenCV  
+- Built a CNN-based deep learning classifier for condition prediction  
+- Designed an end-to-end pipeline from image normalization to performance evaluation  
+
+🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
