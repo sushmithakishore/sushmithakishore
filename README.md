@@ -19,11 +19,11 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, HTML, CSS, JavaScript, SQL  
-**Frameworks:** React, Node.js, Next.js, Streamlit, REST APIs  
-**ML/DL:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, LangChain  
-**Cloud & Tools:** Google Cloud, Azure, Firebase, Git, Power BI  
-**Focus Areas:** Business Analysis, Predictive Systems, AI/ML Applications
+**Languages:** Python, HTML, CSS, JavaScript
+**Frameworks:** SUMO, TraCI, Vanilla JavaScript (DOM APIs)
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Deep Q-Network (DQN), Reinforcement Learning (Q-Learning), Fuzzy Logic Systems
+**Cloud & Tools:** Git, Jupyter Notebook
+**Focus Areas:** Deep Learning, Reinforcement Learning, Computer Vision, Predictive Modeling, Simulation-Based Optimization, AI System Design
 
 ---
 
