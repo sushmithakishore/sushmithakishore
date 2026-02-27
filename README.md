@@ -47,4 +47,3 @@ Class-based Traffic Control
 🎓 **DeepLearning.AI: AI For Medical Diagnosis**  
 🎓 **Stanford University: Machine Learning Specialization**  
 🎓 **IBM: Generative AI & LLMs: Professional Certificate**  
-🎓 **AWS: AWS Cloud Solutions Architect Professional Certificate**
