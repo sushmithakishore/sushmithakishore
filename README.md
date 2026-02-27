@@ -19,10 +19,10 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, HTML, CSS, JavaScript, SQL
-**Frameworks:** React, Node.js, Next.js, Streamlit, REST APIs
-**ML/DL:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, LangChain
-**Cloud & Tools:** Google Cloud, Azure, Firebase, Git, Power BI
+**Languages:** Python, HTML, CSS, JavaScript, SQL  
+**Frameworks:** React, Node.js, Next.js, Streamlit, REST APIs  
+**ML/DL:** PyTorch, TensorFlow, Keras, OpenCV, Hugging Face, LangChain  
+**Cloud & Tools:** Google Cloud, Azure, Firebase, Git, Power BI  
 **Focus Areas:** Business Analysis, Predictive Systems, AI/ML Applications
 
 ---
@@ -43,8 +43,8 @@ I build **intelligent, human-centered AI systems** that solve real-world problem
 
 ## 🏆 Achievements & Certifications
 🥇 **Best Paper Award at IEEE iConSCEPT 2025** – HyFURE – Hybrid Fuzzy Reinforcement for Adaptive 
-Class-based Traffic Control 
-🎓 **DeepLearning.AI: AI For Medical Diagnosis**
-🎓 **Stanford University: Machine Learning Specialization**
-🎓 **IBM: Generative AI & LLMs: Professional Certificate**
+Class-based Traffic Control  
+🎓 **DeepLearning.AI: AI For Medical Diagnosis**  
+🎓 **Stanford University: Machine Learning Specialization**  
+🎓 **IBM: Generative AI & LLMs: Professional Certificate**  
 🎓 **AWS: AWS Cloud Solutions Architect Professional Certificate**
