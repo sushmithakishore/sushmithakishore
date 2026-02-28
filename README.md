@@ -65,7 +65,6 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 
 🛠️ **Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SUMO](https://img.shields.io/badge/SUMO-Traffic%20Simulation-blue?style=for-the-badge)
 ![TraCI](https://img.shields.io/badge/TraCI-Control%20Interface-orange?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
