@@ -45,7 +45,7 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### [🏥 PACS Telemedicine Diagnostic Viewer System](https://github.com/sushmithakishore/YOUR-REPO-NAME)
+### [🏥 PACS Telemedicine Diagnostic Viewer System](https://github.com/sushmithakishore/PACS-Telemedicine-Diagnostic-Viewer-System-)
 - Developed a web-based PACS interface for remote diagnostic imaging workflows  
 - Designed secure login and structured radiology worklist management system  
 - Implemented an interactive diagnostic viewer with real-time image manipulation tools  
