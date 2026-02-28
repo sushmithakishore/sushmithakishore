@@ -72,7 +72,7 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement-Learning-purple?style=for-the-badge)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy-Logic-green?style=for-the-badge)
 
-### [💳 AI Credit Risk Prediction Platform (Ongoing)](https://github.com/sushmithakishore/AI-Credit-Risk-Platform)
+### [💳 AI Credit Risk Prediction Platform (Ongoing)](https://github.com/sushmithakishore/AI-Credit-Risk-Prediction-Platform)
 - Developing an end-to-end machine learning pipeline for structured financial risk assessment  
 - Implementing Logistic Regression and Random Forest models for credit default classification  
 - Designing a REST API for real-time applicant risk prediction  
