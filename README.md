@@ -71,6 +71,21 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement-Learning-purple?style=for-the-badge)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy-Logic-green?style=for-the-badge)
 
+### [💳 AI Credit Risk Prediction Platform (Ongoing)](https://github.com/sushmithakishore/AI-Credit-Risk-Platform)
+- Developing an end-to-end machine learning pipeline for structured financial risk assessment  
+- Implementing Logistic Regression and Random Forest models for credit default classification  
+- Designing a REST API for real-time applicant risk prediction  
+- Integrating PostgreSQL for applicant data storage and prediction logging  
+- Containerizing the application using Docker with planned cloud deployment  
+
+🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ---
 
 ## 🏆 Achievements & Certifications
