@@ -58,7 +58,7 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![DOM API](https://img.shields.io/badge/DOM-APIs-blue?style=for-the-badge)
 ![MediaDevices API](https://img.shields.io/badge/MediaDevices-API-orange?style=for-the-badge)
 
-### [🚦 HyFURE – Hybrid Fuzzy Reinforcement Traffic Control 🏆](https://github.com/sushmithakishore/HyFURE_Hybrid_Fuzzy_Reinforcement_Traffic_Control_iConSCEPT_2025)
+### [🚦 HyFURE – Hybrid Fuzzy Reinforcement Traffic Control 🏆](https://github.com/sushmithakishore/HyFURE-Adaptive-Traffic-Control-DQN-Fuzzy)
 - 🏆 Best Paper Award – IEEE iConSCEPT 2025  
 - Developed a hybrid fuzzy logic + Deep Q-Network (DQN) framework for priority-aware adaptive traffic control  
 - Integrated Mamdani fuzzy inference with reinforcement learning for strategic congestion optimization  
