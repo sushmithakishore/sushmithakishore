@@ -44,6 +44,20 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### [🏥 PACS Telemedicine Diagnostic Viewer System](https://github.com/sushmithakishore/YOUR-REPO-NAME)
+- Developed a web-based PACS interface for remote diagnostic imaging workflows  
+- Designed secure login and structured radiology worklist management system  
+- Implemented an interactive diagnostic viewer with real-time image manipulation tools  
+- Simulated telemedicine-ready reporting and study tracking features  
+
+🛠️ **Tech Stack**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DOM API](https://img.shields.io/badge/DOM-APIs-blue?style=for-the-badge)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-Client--Side-green?style=for-the-badge)
+![MediaDevices API](https://img.shields.io/badge/MediaDevices-API-orange?style=for-the-badge)
+
 ---
 
 ## 🏆 Achievements & Certifications
