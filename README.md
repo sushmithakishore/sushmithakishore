@@ -55,7 +55,6 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![DOM API](https://img.shields.io/badge/DOM-APIs-blue?style=for-the-badge)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-Client--Side-green?style=for-the-badge)
 ![MediaDevices API](https://img.shields.io/badge/MediaDevices-API-orange?style=for-the-badge)
 
 ---
