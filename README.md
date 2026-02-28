@@ -20,15 +20,10 @@ I build **intelligent AI systems grounded in deep learning and reinforcement lea
 ## 🛠️ Tech Stack
 
 **Programming Languages:** Python, JavaScript, HTML5, CSS3  
-
 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, OpenCV, Reinforcement Learning (DQN, Q-Learning), Fuzzy Logic Systems  
-
-**Data & Backend:** Pandas, NumPy, Flask (REST API), PostgreSQL (in progress)  
-
+**Data & Backend:** Pandas, NumPy, Flask (REST API), PostgreSQL   
 **Simulation & Systems:** SUMO, TraCI, Computer Vision Pipelines  
-
-**DevOps & Tools:** Git, Jupyter Notebook, Docker (in progress), AWS / Cloud Deployment (in progress)  
-
+**DevOps & Tools:** Git, Jupyter Notebook, Docker, Cloud Deployment
 **Core Focus Areas:** Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Predictive Modeling, AI System Design, Simulation-Based Optimization  
 
 ---
